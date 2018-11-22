@@ -1,6 +1,4 @@
-# Microsoft Azure
-
-<img src="images/azurelogo.png" width="100">
+# Microsoft Azure <img src="images/azurelogo.png" width="100">
 
 Scripts here can be used to automate or help automate various task on Microsoft Azure.
 
